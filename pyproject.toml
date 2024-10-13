@@ -1,0 +1,11 @@
+[project]
+name = "moonvid"
+version = "0.1.0"
+description = "A hacky library for video captioning"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "einops>=0.8.0",
+    "opencv-python>=4.10.0.84",
+    "transformers>=4.45.2",
+]
