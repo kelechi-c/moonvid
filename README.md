@@ -1,5 +1,7 @@
 ### moonvid 🎥🌒
 
+[**kaggle notebook**](https://www.kaggle.com/code/tensorkelechi/moondream-video/)
+
 A hacky **video captioning** framework,
  using a small VLM (**moondream v2**) and text language model (**Llama 3.2-1b**). 
 
